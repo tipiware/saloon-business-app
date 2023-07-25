@@ -1,0 +1,78 @@
+[
+  {
+    "page_title": "Saloon",
+    "slug": "about-cpas",
+    "hero": "./images/unisex0.jpeg",
+    "hero_alt": "Certified Public Accountant",
+    "sections": [
+      {
+        "title": "Saloon service",
+        "html": "<p>We are more than just an ordinary salon. At here, you can get convenience, personalization and transformation at affordable prices. We provide you with all your hair needs under one roof. Whether you’re getting a quick trim, hair colored or a completely new look, we got you all covered here!</p><p>Our services are</p><ul><li>Haircut</li><li>Rebonding</li><li>Perm</li><li>Dye</li></ul>"
+      },
+      {
+        "title": "Haircut",
+        "image": "./images/haircut.jpg",
+        "image_alt": "A man reviewing tax forms",
+        "html": "<p>Maintain a polished and sophisticated look by getting your regular quality haircut service from our salon or let our skillful hair stylist create the hairstyle that complement your personality.</p><p>For those who are after a quick trim, and a tidy up around the edges or a simple cut. Serviced by our talented junior hairstylist</p><p>For those who are after a trendier haircut with technical skills. Serviced by our professional skillful hairstylist</p>"
+      },
+      {
+        "title": "Styling",
+        "image": "./images/rebonding.jpeg",
+        "image_alt": "Tax forms with a phone viewing an email from TurboTax",
+        "html": "<p>Whether it is for your wedding or grand company event, we offer a professional hair setting and styling service so that you can appear perfect on your special day. Make an appointment with us and let us work on your desired look for your special occasion.</p>"
+      },
+      {
+        "title": "Treatment",
+        "image": "./images/wash.jpg",
+        "image_alt": "Tax Deductable",
+        "html": "<p>Hair is the greatest asset for everyone. In APT Salon, we offer a free thorough consultation and a variety of hair and scalp treatments to suit your hair and scalp needs because we understand how important it is to keep our hair well and healthy.</p>"
+      },
+      {
+        "title": "Coloring",
+        "image": "./images/coloring.jpg",
+        "image_alt": "Tax Deductable",
+        "html": "<p>We understand that sometimes you just have to get that transformation. That’s why we are here. Whether it’s just a simple touch up or a whole dramatic makeover, our colorists will make sure to achieve the result that you want, making all the heads turn for you.</p>"
+      },
+      {
+        "title": "Chemical work",
+        "image": "./images/chemical.jpg",
+        "image_alt": "Tax Deductable",
+        "html": "<p>Do you know that hairstyle is one of the elements that helps you express your character & personality? Whether it is smooth straight or silky wavy hair, our skillful stylist will help you to appear more sophisticated or even graceful with our rebonding and perming services.</p>"
+      }
+    ]
+  },
+  {
+    "page_title": "About Johnson & Associates",
+    "page_description": "Johnson & Associates CPA is a Los Angeles based Accounting Firm that specializes in individual tax returns and business taxation.",
+    "tagline": "Accounting Firm, Los Angeles, California",
+    "slug": "about-johnson-associates",
+    "hero": "./images/unisex1.jpeg",
+    "hero_alt": "Los Angeles, California",
+    "text_content": "<p>Johnson & Associates CPA has been servicing the greater Los Angeles area for over 30 years. Our decades of experience providing full service financial accounting, bookkeeping, audit consultation, and tax preparations has earned us the trust and loyalty of the families and businesses that we help year after year.</p><p>We take pride in our commitment to having a positive impact on your finances, regardless of the size of your business or salary. Our experience spans across industries in Southern California, all the way from agriculture to retail, and everything in between. We leave no stone unturned when it comes to seeking out every last opportunity for you to keep your hard earned money.</p>"
+  },
+  {
+    "page_title": "Unisex Saloon",
+    "page_description": "unisex saloon is the hairstyle for man and woman",
+    "slug": "/",
+    "hero": "./images/unisex1.jpeg",
+    "hero_alt": "",
+    "statements": [
+      "Welcome to our Unisex Salon, where beauty and wellness come together to create a harmonious experience for all. At our salon, we believe that every individual deserves to feel confident and empowered in their own unique style, regardless of gender. Our passionate team of skilled stylists and professionals is committed to providing top-notch services, tailored to suit the needs and preferences of each client.With a modern and inviting ambiance, our salon is designed to be a space where you can relax, unwind, and be yourself. From trendy haircuts and stylish hair color transformations to rejuvenating facials and soothing spa treatments, we offer a wide range of services to cater to your every beauty desire."
+    ],
+    "business_services": {
+      "title": "Our value",
+      "text": "Our commitment to using high-quality, ethically-sourced products ensures that you not only look fabulous but also feel good about the choices you make for your well-being. We take pride in staying up-to-date with the latest trends and techniques, ensuring that you receive the best possible care and service at all times.",
+      "bullets": [
+        {"title": "Gender-Inclusive Services", "text": "Offers services for people of all genders. This means the salon caters to both men and women, as well as individuals who identify outside the traditional gender binary."},
+        {"title": "Diverse Hair Services", "text": "Offers a wide range of hair services, including haircuts, styling, coloring, highlights, and hair treatments, suitable for all hair types and lengths."},
+        {"title": "Skilled and Trained Staff", "text": "Employs experienced and well-trained professionals who are knowledgeable about the latest trends and techniques in the beauty industry.Modern and Inviting Ambiance: Unisex salons often have a contemporary and welcoming atmosphere that makes clients feel comfortable and relaxed during their visit."}
+      ]
+    },
+    "family_services": {
+      "title": "Saloon Services",
+      "text": "Our salon offers a comprehensive range of services to cater to all your beauty and grooming needs. From trendy haircuts and expert hair coloring to luxurious facials and skin treatments, we have everything you need to look and feel your best. Our skilled stylists provide personalized consultations, ensuring your hair dreams become a reality. Pamper yourself with our relaxing massages and spa treatments, or indulge in our nail services for perfectly manicured hands and feet. We also offer professional makeup services for special occasions and eyebrow and eyelash treatments to enhance your natural beauty. Whether you're looking for a quick touch-up or a complete makeover, our salon is your one-stop destination for all things beauty and self-care.",
+      "hero": "./images/barber.jpeg",
+      "hero_alt": "Family photo"
+    }
+  }
+]
